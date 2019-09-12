@@ -4,8 +4,8 @@ import { Vue as VueIntegration } from "@sentry/integrations";
 import App from "./App.vue";
 
 Sentry.init({
-  debug: true,
-  dsn: "<your-dsn>",
+  dsn: "<dsn>",
+  release: "<release>",
   integrations: [
     new VueIntegration({
       Vue,
