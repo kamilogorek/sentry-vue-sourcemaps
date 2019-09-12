@@ -8,3 +8,5 @@
 8. Go to your Sentry project page
 9. ???
 10. PROFIT
+
+![Screenshot](screenshot.png)
